@@ -1,0 +1,52 @@
+body {
+  background: #a1ffce; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #faffd1,
+    #a1ffce
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #faffd1,
+    #a1ffce
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+* {
+  font-family: sans-serif;
+}
+
+.btn-standard {
+  background: #23026a;
+  color: rgb(255, 255, 255);
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.btn-standard:hover {
+  background-color: #0b5dc0;
+  color: white;
+}
+
+.btn-lightgray {
+  background-color: #f0f3f5;
+  color: black;
+}
+
+.btn-lightgray:hover {
+  background-color: #edeff0;
+  color: black;
+}
+
+.btn-gradient {
+  background: #ff416c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ff4b2b,
+    #ff416c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ff4b2b,
+    #ff416c
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
