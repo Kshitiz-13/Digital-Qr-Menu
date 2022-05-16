@@ -1,5 +1,5 @@
 # Digital-Qr-Menu
-Bulding digital QR menu! A smart way to share your digital menu in a QR Code with your customers . Covid has changed the world !! Its time you change the way of showing your menu !
+Building digital QR menu! A smart way to share your digital menu in a QR Code with your customers . Covid has changed the world !! Its time you change the way of showing your menu !
 
  # LIVE LINK--https://digital-qr-menu.herokuapp.com/
  
@@ -7,7 +7,7 @@ Bulding digital QR menu! A smart way to share your digital menu in a QR Code wit
  ![image](https://user-images.githubusercontent.com/55119355/168472057-1b92ac86-0f94-45f1-957c-d2feb20da1cb.png)
  
  
- # DASHBOARD OF THE USER THAT SHOWS ALL THE PLACES(RESTURANTS) OWNED BY THE LOGED IN USER
+ # DASHBOARD OF THE USER THAT SHOWS ALL THE PLACES(RESTAURANTS) OWNED BY THE LOGED IN USER
  
  ### You can new place by clicking on Add place
  
